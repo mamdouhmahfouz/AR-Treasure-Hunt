@@ -52,15 +52,7 @@ To see the game in action, check out the video demonstration. This video showcas
 3. Connect a webcam or use a mobile device to test the AR features.
 4. Play the game directly from the Unity Editor or build it for Android/iOS.
 
-**Usage**
 
-This project is free to use and modify for educational or personal purposes. Contributions and suggestions are welcome!
 
-**Contributors**
 
-- **Adham Hisham** - Developer and creator.
-
-**License**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
